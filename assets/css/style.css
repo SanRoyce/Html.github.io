@@ -1,0 +1,31 @@
+/*Encabezado*/
+
+#img4{
+    float: right;
+}
+div p{
+    color: black;
+    font-size: 24px;
+    margin: 0px ;
+}
+div h1{
+    color: black;
+    font-size: 50px;
+}
+.header{
+    background-image: url("./imgs/img\ 4.jpg");
+    border-style: solid;
+    border-color: 2px black inset;
+    border-radius: 15px;
+}
+/*Cuerpo*/
+body{
+    color: black;
+    background-color: white;
+}
+.footer{
+    color: black;
+    size: 24px;
+    background-color: yellow;
+    opacity: 0.3;
+}
